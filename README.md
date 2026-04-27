@@ -19,7 +19,7 @@ A lightweight and extensible toolkit to enhance your workflow with modular, reus
 You can install **Skills** instantly using the following command:
 
 ```bash
-wget https://raw.githubusercontent.com/agentskillsio/skills/refs/heads/main/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/agentskillsio/skills/refs/heads/main/install.sh | bash
 ```
 
 This script will automatically download and set up everything you need.
